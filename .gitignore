@@ -1,0 +1,12 @@
+# Generated output
+audit_report.md
+findings.json
+
+# Never commit real firewall configs
+rules.txt
+*_real*.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
